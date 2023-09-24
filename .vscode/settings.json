@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ctype.h": "c",
+        "ioctl.h": "c"
+    }
+}
